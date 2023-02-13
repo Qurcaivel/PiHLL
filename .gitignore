@@ -1,7 +1,7 @@
 ### Maven ###
 .mvn
 HELP.md
-../../Desktop/PiHLL/target/
+target/
 
 ### IntelliJ IDEA ###
 .idea

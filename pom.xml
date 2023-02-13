@@ -38,6 +38,7 @@
 			<artifactId>json</artifactId>
 			<version>LATEST</version>
 		</dependency>
+
         <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>
