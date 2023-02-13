@@ -1,0 +1,10 @@
+### Maven ###
+.mvn
+HELP.md
+../../Desktop/PiHLL/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
